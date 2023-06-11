@@ -1,0 +1,58 @@
+{
+	id: "5B00676D79306EA2"
+	group: ""
+	order_index: 0
+	filename: "welcome"
+	title: "환영합니다"
+	icon: "allthetweaks:atm_star"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.5d
+		y: -4.0d
+		width: 4.0d
+		height: 4.0d
+		rotation: 8.0d
+		image: "packmenu:textures/gui/logo.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: true
+	}]
+	quests: [{
+		title: "&dAll The Mods 8에 오신 것을 환영합니다!"
+		icon: "allthetweaks:atm_star"
+		x: 0.5d
+		y: -0.5d
+		shape: "diamond"
+		description: [
+			"ATM8은 싱크대 스타일의 모드팩을 좋아하는 분들을 위해 엄선된 모드 경험을 제공합니다!"
+			""
+			"모드가 추가된 마인크래프트를 처음 사용하는 경우, &9제1장 시작하기&r를 확인하여 시작하세요!"
+			""
+			"궁금한 점이나 문제가 있으시면 언제든지 ATM 디스코드에 참여하세요!"
+			""
+			"참고: 퀘스트는 선택 사항입니다."
+		]
+		size: 3.0d
+		id: "3BC0A50886A3222B"
+		tasks: [{
+			id: "5A1784C5676CDC62"
+			type: "checkmark"
+			title: "All The Mods 8에 오신 것을 환영합니다!"
+		}]
+		rewards: [
+			{
+				id: "6D5A59BBE47C22D1"
+				type: "item"
+				item: "ftbquests:book"
+			}
+			{
+				id: "4956CB79E44FB523"
+				type: "xp"
+				xp: 10
+			}
+		]
+	}]
+	quest_links: [ ]
+}
