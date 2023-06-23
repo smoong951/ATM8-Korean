@@ -259,7 +259,7 @@
 	"affix.apotheosis.target.block_attacker": "• 방패로 막으면, 대상에게 %s 효과를 부여합니다.",
 	"affix.apotheosis.cooldown": "[⌛ %s]",
 
-	"affix.apotheosis:durable.desc": "• 이 아이템은 내구도 피해의 %s%%를 무시합니다.",
+	"affix.apotheosis:durable.desc": "• 이 아이템은 내구도 손상의 %s%%를 무시합니다.",
 	"affix.apotheosis:socket.desc": "• %s개의 소켓",
 
 	"socket.apotheosis.empty": "빈 소켓",
@@ -270,12 +270,12 @@
 
 	"gem_class.melee_weapon": "근접 무기",
 	"gem_class.ranged_weapon": "원거리 무기",
-	"gem_class.light_weapon": "Light Weapons",
+	"gem_class.light_weapon": "가벼운 무기",
 	"gem_class.core_armor": "핵심 갑옷",
 	"gem_class.lower_armor": "하부 갑옷",
 	"gem_class.armor": "갑옷",
 	"gem_class.breaker": "채굴 도구",
-	"gem_class.light_ranged": "Light or Ranged Weapons",
+	"gem_class.light_ranged": "가벼운 무기 또는 원거리 무기",
 	"gem_class.weapons_or_tools": "무기 또는 도구",
 
 	"gem_class.helmet": "투구",
@@ -283,7 +283,7 @@
 	"gem_class.leggings": "레깅스",
 	"gem_class.boots": "부츠",
 	"gem_class.shield": "방패",
-	"gem_class.heavy_weapon": "중화기",
+	"gem_class.heavy_weapon": "무거운 무기",
 
 	"bonus.apotheosis:durability.desc": "Ignores %s%% of durability damage",
 	"bonus.apotheosis:enchantment.desc": "+%s %s to %s",
@@ -374,8 +374,8 @@
 	"text.apotheosis.category.pickaxe.plural": "곡괭이",
 	"text.apotheosis.category.shovel": "삽",
 	"text.apotheosis.category.shovel.plural": "삽",
-	"text.apotheosis.category.heavy_weapon": "중화기",
-	"text.apotheosis.category.heavy_weapon.plural": "중화기",
+	"text.apotheosis.category.heavy_weapon": "무거운 무기",
+	"text.apotheosis.category.heavy_weapon.plural": "무거운 무기",
 	"text.apotheosis.category.armor": "갑옷",
 	"text.apotheosis.category.armor.plural": "갑옷",
 	"text.apotheosis.category.shield": "방패",
