@@ -1,0 +1,12 @@
+{
+	chapter_groups: [
+		{ id: "1CF541D7529DA9CF", title: "메인 퀘스트" }
+		{ id: "22FB35B0FEF1343D", title: "도구와 방어구" }
+		{ id: "1AC60211DE7427FC", title: "저장소" }
+		{ id: "6614EE2378B8AFB9", title: "자원" }
+		{ id: "27AA266437DD1B5B", title: "모든 전력" }
+		{ id: "2B51AC12041E3F89", title: "기술" }
+		{ id: "02FE661031A105D8", title: "마법" }
+		{ id: "752CDE464613A1ED", title: "탐험" }
+	]
+}
