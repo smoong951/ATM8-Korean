@@ -1,0 +1,452 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: "allthetweaks:atm_star"
+	id: "5B00676D79306EA2"
+	images: [
+		{
+			click: ""
+			corner: true
+			dev: false
+			height: 5.0d
+			hover: [ ]
+			image: "packmenu:textures/gui/logo.png"
+			rotation: 8.0d
+			width: 5.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: ["whatthedrunk"]
+			image: "atm:textures/questpics/welcome/whatthedrunk.png"
+			rotation: 0.0d
+			width: 3.75d
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: ["EnigmaQuip"]
+			image: "atm:textures/questpics/welcome/enigmaquip.png"
+			rotation: 0.0d
+			width: 3.75d
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: ["theVortex"]
+			image: "atm:textures/questpics/welcome/thevortex.png"
+			rotation: 0.0d
+			width: 3.75d
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			click: "https://www.youtube.com/c/alfredggmc"
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: ["AlfredGG"]
+			image: "atm:textures/questpics/welcome/alfred.png"
+			rotation: 0.0d
+			width: 3.75d
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: ["mitchell52"]
+			image: "atm:textures/questpics/welcome/mitchell52.png"
+			rotation: 0.0d
+			width: 3.75d
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: ["oly2o6"]
+			image: "atm:textures/questpics/welcome/oly206.png"
+			rotation: 0.0d
+			width: 3.75d
+			x: -15.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 5.0d
+			hover: ["MutantGumdrop"]
+			image: "atm:textures/questpics/welcome/mutantgumdrop.png"
+			rotation: 0.0d
+			width: 3.75d
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/alfredgg_name.png"
+			rotation: 0.0d
+			width: 3.396039603960396d
+			x: 15.0d
+			y: 8.13d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/thevortex_name.png"
+			rotation: 0.0d
+			width: 4.048543689320389d
+			x: 10.0d
+			y: 8.15d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/mutant_name.png"
+			rotation: 0.0d
+			width: 5.515873015873016d
+			x: -10.0d
+			y: 8.26d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.1d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/enigma_name.png"
+			rotation: 0.0d
+			width: 3.8412698412698414d
+			x: 5.0d
+			y: 8.29d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/mitchell52_name.png"
+			rotation: 0.0d
+			width: 4.048543689320389d
+			x: -5.0d
+			y: 8.15d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.2d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/oly2o6.png"
+			rotation: 0.0d
+			width: 2.457142857142857d
+			x: -15.0d
+			y: 8.27d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/whatthedrunk.png"
+			rotation: 0.0d
+			width: 5.601941747572815d
+			x: 0.0d
+			y: 8.15d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 2.9083503054989817d
+			hover: [ ]
+			image: "atm:textures/questpics/welcome/signs/name_bar.png"
+			order: -1
+			rotation: 0.0d
+			width: 42.0d
+			x: 0.0d
+			y: 8.15d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "ftbquests:textures/block/base_input.png"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "ftbquests:textures/block/base_input.png"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "ftbquests:textures/block/base_input.png"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: -15.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "ftbquests:textures/block/base_input.png"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "ftbquests:textures/block/base_input.png"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "ftbquests:textures/block/base_input.png"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			click: ""
+			corner: false
+			dev: false
+			height: 6.0d
+			hover: [ ]
+			image: "ftbquests:textures/block/base_input.png"
+			order: -3
+			rotation: 0.0d
+			width: 4.0d
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			click: "https://discord.gg/3paFjuRfz9"
+			corner: false
+			dev: false
+			height: 1.0d
+			hover: ["Join the Discord!"]
+			image: "ftbchunks:textures/waypoint_default.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"ATM8은 싱크대 스타일의 모드팩을 좋아하는 분들을 위해 엄선된 모드 경험을 제공합니다!"
+				""
+				"모드가 추가된 마인크래프트를 처음 사용하는 경우, &9제1장 시작하기&r를 통해 시작해보세요!"
+				""
+				"궁금한 점이나 문제가 있으시면 언제든지 ATM 디스코드에 참여하세요!"
+			]
+			icon: "allthetweaks:atm_star"
+			id: "3BC0A50886A3222B"
+			rewards: [{
+				id: "4956CB79E44FB523"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "diamond"
+			size: 3.0d
+			tasks: [{
+				id: "5A1784C5676CDC62"
+				title: "All The Mods 8에 오신 것을 환영합니다!"
+				type: "checkmark"
+			}]
+			title: "&dAll The Mods 8에 오신 것을 환영합니다!"
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			description: [
+				"이 모드팩에서 퀘스트는 선택 사항입니다. 퀘스트 완료에 따라 모드가 제한되지 않습니다!"
+				""
+				"메인 퀘스트 외의 개별 퀘스트는 모드 안내 역할을 합니다. 진행 상황을 확인하고 싶다면 메인 퀘스트를 확인하세요!"
+				""
+				"팩에 포함된 대부분의 퀘스트도 &2AlfredGG&r가 만들었습니다. 퀘스트는 힘든 작업이므로 그를 응원하고 싶다면 아래 플레이어 이미지를 클릭하세요!"
+			]
+			icon: "ftbquests:book"
+			id: "3708A4780ACEB34E"
+			min_width: 250
+			rewards: [{
+				id: "4A56DF6E0204666C"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "52BB142F044075B4"
+				title: "퀘스트"
+				type: "checkmark"
+			}]
+			title: "퀘스트"
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"ATM에는 유용한 명령어가 많이 있습니다. 다음은 몇 가지 명령어입니다:"
+				""
+				"&e/sethome&r (집의 이름) | /home (이름) 명령어를 사용하여 순간이동할 수 있는 집을 설정해 보겠습니다. 예: /sethome farm - 그런 다음 /home farm 명령어로 순간이동합니다."
+				""
+				"&e/back&r | 어디로든 순간이동하거나 사망하면 /back 명령어를 사용해 이전 위치로 다시 순간이동할 수 있습니다."
+				""
+				"&e/spawn&r | 이렇게 하면 오버월드의 스폰 지점으로 순간이동합니다."
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftbteams:textures/settings.png"
+				}
+			}
+			id: "7658C1C663394E85"
+			min_width: 350
+			rewards: [{
+				id: "5007C73E170C4FF6"
+				type: "xp"
+				xp: 10
+			}]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "10A16F89D4AD238D"
+				title: "유용한 명령어"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"청크를 점유하려면 점유 지도를 여는 기본 키는 &6M&r입니다."
+				""
+				"청크를 점유하려면 왼쪽 클릭 후 드래그하여 점유합니다. "
+				""
+				"청크를 강제로 불러오려면 청크를 Shift+왼쪽 클릭합니다. 제대로 완료되면 청크에 선이 표시됩니다."
+			]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftbchunks:textures/waypoint_home.png"
+				}
+			}
+			id: "0C93D7A607AB8B83"
+			rewards: [{
+				id: "1B044C35466AFAEF"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "103C42C743E2A2DB"
+				title: "청크 점유"
+				type: "checkmark"
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			description: ["자신과 친구들을 위한 팀을 만들려면 &a/ftbteams party create (팀 이름)&r 명령어를 사용해 팀을 만드세요!"]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftbteams:textures/teams.png"
+				}
+			}
+			id: "5AC1BE754210429E"
+			rewards: [{
+				id: "101D2FD24AB845AC"
+				type: "xp"
+				xp: 10
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "4F13A02FB0055A62"
+				title: "팀 만들기"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -0.5d
+		}
+	]
+	title: "환영합니다"
+}
