@@ -1,0 +1,45 @@
+{
+  "itemGroup.ironjetpacks": "철 제트팩",
+
+  "item.ironjetpacks.strap": "가죽 스트랩",
+  "item.ironjetpacks.basic_coil": "기본 코일",
+  "item.ironjetpacks.advanced_coil": "고급 코일",
+  "item.ironjetpacks.elite_coil": "엘리트 코일",
+  "item.ironjetpacks.ultimate_coil": "궁극 코일",
+
+  "item.ironjetpacks.cell": "%s 배터리",
+  "item.ironjetpacks.thruster": "%s 추진기",
+  "item.ironjetpacks.capacitor": "%s 축전기",
+  "item.ironjetpacks.jetpack": "%s 제트팩",
+
+  "keybind.ironjetpacks.engine": "엔진 전환",
+  "keybind.ironjetpacks.hover": "호버 모드 전환",
+  "keybind.ironjetpacks.descend": "하강하기",
+  "keybind.ironjetpacks.increment_throttle": "스로틀 높이기",
+  "keybind.ironjetpacks.decrement_throttle": "스로틀 낮추기",
+
+  "subtitle.ironjetpacks.jetpack": "제트팩",
+
+  "tooltip.ironjetpacks.on": "켜짐",
+  "tooltip.ironjetpacks.off": "꺼짐",
+  "tooltip.ironjetpacks.infinite": "무한",
+  "tooltip.ironjetpacks.engine": "엔진",
+  "tooltip.ironjetpacks.hover": "호버",
+  "tooltip.ironjetpacks.tier": "티어 %s",
+  "tooltip.ironjetpacks.throttle": "스로틀: %s",
+  "tooltip.ironjetpacks.fuel_usage": "연료 소비: %s",
+  "tooltip.ironjetpacks.vertical_speed": "수직 이동 속도: %s",
+  "tooltip.ironjetpacks.vertical_acceleration": "수직 가속도: %s",
+  "tooltip.ironjetpacks.horizontal_speed": "수평 이동 속도: %s",
+  "tooltip.ironjetpacks.hover_speed": "호버 속도: %s",
+  "tooltip.ironjetpacks.hover_ascend_speed": "호버 상승 속도: %s",
+  "tooltip.ironjetpacks.hover_descend_speed": "호버 하강 속도: %s",
+  "tooltip.ironjetpacks.sprint_modifier": "수평 질주 속도 배율: %s",
+  "tooltip.ironjetpacks.sprint_vertical_modifier": "수직 질주 속도 배율: %s",
+  "tooltip.ironjetpacks.sprint_fuel_modifier": "질주 연료 소비 배율: %s",
+  "tooltip.ironjetpacks.toggle_engine": "엔진이 %s으로 전환되었습니다.",
+  "tooltip.ironjetpacks.toggle_hover": "호버가 %s으로 전환되었습니다.",
+  "tooltip.ironjetpacks.change_throttle": "스로틀을 %s으로 설정합니다.",
+  "tooltip.ironjetpacks.state_tooltip_layout": "%s | %s | %s",
+  "tooltip.ironjetpacks.jetpack_id": "제트팩 ID: %s"
+}
