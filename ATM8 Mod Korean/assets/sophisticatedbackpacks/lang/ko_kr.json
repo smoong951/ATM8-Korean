@@ -45,7 +45,7 @@
     "item.sophisticatedbackpacks.advanced_deposit_upgrade.tooltip": "저장소에다 웅크리고 오른쪽 버튼을 누르면 배낭의 아이템을 저장소로 꺼낼 수 있게 됩니다.\n필터 옵션이 추가됩니다.",
     "item.sophisticatedbackpacks.refill_upgrade": "보충 강화",
     "item.sophisticatedbackpacks.refill_upgrade.tooltip": "선택한 아이템을 플레이어의 보관함으로 보충할 수 있게 됩니다.",
-	"item.sophisticatedbackpacks.advanced_refill_upgrade": "고급 보충 강화",
+    "item.sophisticatedbackpacks.advanced_refill_upgrade": "고급 보충 강화",
     "item.sophisticatedbackpacks.advanced_refill_upgrade.tooltip": "선택한 아이템을 플레이어의 보관함으로 보충할 수 있게 됩니다.\n더욱 정밀한 대상 슬롯을 선택 가능합니다.\n또한 배낭에서 블록을 가운데 클릭으로 선택할 수 있습니다.",
     "item.sophisticatedbackpacks.inception_upgrade": "보관 강화",
     "item.sophisticatedbackpacks.inception_upgrade.tooltip": "배낭에 배낭을 넣을 수 있게 됩니다.",
