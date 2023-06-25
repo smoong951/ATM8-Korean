@@ -87,7 +87,7 @@
   "key.jei.copy.recipe.id": "제작법 ID를 클립보드에 복사하기",
 
   "_comment": "Config",
-  "config.jei": "JEI Config",
+  "config.jei": "JEI 구성",
   "config.jei.default": "기본값",
   "config.jei.valid": "현재",
   "config.jei.title": "%MODNAME 구성",
