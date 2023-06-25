@@ -63,7 +63,7 @@
   "key.jei.cheatItemStack": "아이템 1세트 지급",
   "key.jei.cheatItemStack2": "아이템 1세트 지급",
 
-  "jei.key.category.hover.config.button": "JEI (구성 버튼 위에 마우스 올려놓기)",
+  "jei.key.category.hover.config.button": "JEI (구성 버튼 위에 마우스를 올려 놓고)",
   "key.jei.toggleCheatModeConfigButton": "아이템 치트 모드 켜기/끄기",
 
   "jei.key.category.edit.mode": "JEI (수정 모드)",
@@ -71,7 +71,7 @@
   "key.jei.toggleHideIngredient": "아이템 숨기기",
   "key.jei.toggleWildcardHideIngredient": "아이템 숨기기 (와일드카드)",
 
-  "jei.key.category.mouse.hover": "JEI (마우스 올려놓기)",
+  "jei.key.category.mouse.hover": "JEI (아이템 위에 마우스를 올려 놓고)",
   "key.jei.bookmark": "북마크 아이템 추가/제거",
   "key.jei.showRecipe": "아이템 제작법 보기",
   "key.jei.showRecipe2": "아이템 제작법 보기",
