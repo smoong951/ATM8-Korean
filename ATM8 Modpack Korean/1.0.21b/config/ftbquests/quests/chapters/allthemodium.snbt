@@ -134,7 +134,7 @@
 			description: [
 				"매우 빠른 화로."
 				""
-				"한 번에 스택의 1/4을 제련합니다."
+				"한 번에 아이템 1/4세트를 제련합니다."
 			]
 			hide_dependency_lines: false
 			dependencies: ["71A43C89EB13E9A0"]
@@ -198,7 +198,7 @@
 			description: [
 				"얼마나 더 빨라질 수 있을까요?"
 				""
-				"한 번에 스택의 1/2을 제련합니다."
+				"한 번에 아이템 1/2 세트를 제련합니다."
 			]
 			hide_dependency_lines: false
 			dependencies: ["61FDABF2C7CC1F9D"]
@@ -223,7 +223,7 @@
 			description: [
 				"이제 당신은 그저 과시하는 것뿐입니다."
 				""
-				"작업당 하나의 아이템 스택을 제련합니다."
+				"한 번에 아이템 1세트를 제련합니다."
 			]
 			hide_dependency_lines: false
 			dependencies: ["44760B819EB3CA68"]
